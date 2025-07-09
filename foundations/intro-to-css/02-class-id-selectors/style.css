@@ -1,0 +1,13 @@
+p {
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler{
+    font-size: 32px;
+}
+
+#first{
+    color: blue;
+    font-size: 36px;
+}
