@@ -3,11 +3,13 @@ p {
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
 .cooler{
     font-size: 32px;
 }
 
-#first{
-    color: blue;
-    font-size: 36px;
-}
+
