@@ -5,16 +5,16 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  font-weight: 999;
+  font-size: 22px;
 }
 
 .small-para {
-  font-size: 14px;
-  font-weight: 800;
+  font-size: 1px;
 }
 
 .para {
-  font-size: 22px;
+  
 }
 
 .confirm {
