@@ -1,4 +1,4 @@
-p {
+.colour {
     background-color: salmon;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -8,7 +8,7 @@ p {
     font-size: 36px;
 }
 
-.cooler, #fourth
+.font-size
 {
     font-size: 24px;
 }
