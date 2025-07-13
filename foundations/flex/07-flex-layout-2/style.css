@@ -18,13 +18,14 @@ body {
 
 .sidebar-container{
   display: flex;
+  align-items: ;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  display: flex;
+  padding: 16px;
 
 }
 
@@ -37,4 +38,18 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   flex-wrap: wrap;
+}
+
+ul{
+  flex-direction: column;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 15px;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: antiquewhite;
 }
