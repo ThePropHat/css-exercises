@@ -34,13 +34,15 @@ h1{
   background: royalblue;
   box-sizing: border-box;
   padding: 16px;
+  flex: 316 1 1;
+  min-width: 170px;
 
 }
 
 .card-container{
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  justify-content: space-around;
 }
 
 .card {
@@ -51,20 +53,19 @@ h1{
   height: auto;
   padding: 48px;
   margin-top: 30px;
-  margin-left: 30px;
+  margin-bottom: 30px;
 
 }
 
 ul{
   flex-direction: column;
-  flex: 1;
   margin: 0;
   padding: 0;
-  gap: 15px;
   list-style: none;
 }
 
 a{
   text-decoration: none;
   color: antiquewhite;
+  font-size: 24px;
 }
