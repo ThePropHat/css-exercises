@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -29,10 +30,9 @@ img {
 
 .container{
   display: flex;
-  flex-direction: column;
-}
-
-.text{
-  display: flex;
-  
+  justify-content: space-between;
+  align-content: center;
+  padding:5px;
+  margin: 10px;
+  gap: 14px
 }
